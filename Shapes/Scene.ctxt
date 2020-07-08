@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Scene()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Scene.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=This\ is\ the\ main\ method\ for\ Scene\ class.\r\n\ @param\ args\ **This\ allows\ methods\ to\ be\ called.**\r\n
+comment2.params=
+comment2.target=void\ animate()
+comment2.text=This\ method\ animates\ Scene.\r\n\ \r\n
+numComments=3
