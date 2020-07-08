@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getInt()
+comment0.text=\r\n\ Read\ an\ integer\ value\ from\ the\ keyboard.\ If\ the\ user\ enters\ anything\ \r\n\ that\ is\ not\ an\ integer,\ discard\ the\ input\ and\ read\ another\ value\ from\r\n\ the\ user.\r\n\ \r\n\ @return\ The\ integer\ that\ the\ user\ entered\ from\ the\ keyboard.\r\n
+comment1.params=
+comment1.target=double\ getDouble()
+comment1.text=\r\n\ Read\ a\ double\ value\ from\ the\ keyboard.\ If\ the\ user\ enters\ anything\ \r\n\ that\ is\ not\ an\ double,\ discard\ the\ input\ and\ read\ another\ value\ from\r\n\ the\ user.\r\n\ \r\n\ @return\ The\ integer\ that\ the\ user\ entered\ from\ the\ keyboard.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getString()
+comment2.text=\r\n\ Read\ a\ string\ from\ the\ user\ and\ return\ it.\r\n\ \r\n\ @return\ The\ string\ that\ the\ user\ entered\ from\ the\ keyboard.\r\n
+numComments=3
