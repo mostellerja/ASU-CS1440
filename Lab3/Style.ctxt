@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ main\ \u2013\ The\ program\ starts\ here\ in\ main.\r\n\ Show\ some\ sample\ code\ to\ demonstrate\ common\ style\r\n\ problems\ that\ are\ not\ really\ java\ problems.\r\n\r\n\ A\ javadoc\ comment\ describing\ the\ method\ is\ required\ at\ the\r\n\ top\ of\ all\ methods\ in\ the\ class.\ If\ there\ are\ parameters\ a\r\n\ "@param"\ tag\ is\ required\ describing\ each.\ If\ this\ method\r\n\ returns\ a\ value\ a\ "@return"\ tag\ is\ required\ describing\ the\r\n\ return\ value.\r\n\r\n\ @param\ args\ Command\ line\ arguments.\r\n
+numComments=1

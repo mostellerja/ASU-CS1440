@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ It\ all\ starts\ with\ the\ main\ method.\r\n\r\n\ @param\ args\ command-line\ arguments\ (not\ used)\r\n\r\n
+comment1.params=keyboard
+comment1.target=void\ getInput(java.util.Scanner)
+comment1.text=\r\n\ This\ method\ grabs\ the\ user\ input\ from\ the\ scanner.\r\n\ @param\ keyboard\ **this\ is\ id\ of\ scanner**\r\n\ \r\n
+comment2.params=
+comment2.target=void\ calculate()
+comment2.text=This\ method\ calculates\ the\ output\ from\ the\ given\ input\ from\ the\ Scanner.\r\n\ \r\n
+comment3.params=
+comment3.target=void\ printPayStub()
+comment3.text=This\ method\ prints\ the\ Pay\ Stub,\ which\ files\ in\ the\ data\r\n\ \ from\ the\ calculate()\ method.\r\n
+numComments=4

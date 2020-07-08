@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Activity1DeclTest()
+comment0.text=\r\n\ Default\ constructor\ for\ test\ class\ PayStubTest.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testConstantDeclarations()
+comment3.text=\r\n\ Tests\ for\ declarations\ of\ code\ in\ Activity\ 1.\r\n\ \r\n\ Student\ should\ be\ declaring\ three\ constant\ fields\r\n\ Verify\ these\ properties\ exist\ as\ best\ as\ we\ can.\r\n
+comment4.params=
+comment4.target=void\ testMethodDeclarations()
+comment4.text=\r\n\ Test\ the\ expected\ method\ declarations.\ \ \r\n\ \r\n\ We\ are\ only\ interested\ in\ the\ main\ method\ for\ now.\r\n
+numComments=5

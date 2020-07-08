@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StyleDeclTest()
+comment0.text=\r\n\ Default\ constructor.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testStyleDeclarations()
+comment3.text=\r\n\ Test\ the\ expected\ method\ declarations.\ \ \r\n\ \r\n\ We\ are\ only\ interested\ in\ the\ main\ method\ for\ now.\r\n
+comment4.params=
+comment4.target=void\ testSilent()
+comment4.text=\r\n\ Silently\ (no\ output)\ performs\ test.\ \ Failure\ causes\ JUnit\ failure.\ \ \r\n\ Success\ just\ returns\ to\ caller\ who\ ultimately\ is\ an\ @Test\ Junit\ test.\r\n
+numComments=5
